@@ -1,4 +1,4 @@
-#FOOD DELIVERY SYSTEM - Mini Project using C 
+# FOOD DELIVERY SYSTEM - Mini Project using C 
 > To demonstrate circular queue data structure
 
 This Mini Project enables “FOODSTER FOOD DELIVERY”, to manage and maintain its customer’s details and orders for online food delivery. The project consists of four functions which are displayed as choices to the management.
